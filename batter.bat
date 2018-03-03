@@ -1,0 +1,2 @@
+asar pantsu.asm
+@pause
